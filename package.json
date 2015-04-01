@@ -1,0 +1,21 @@
+{
+  "name": "headwater",
+  "version": "1.0.0",
+  "description": "Turn any function into a readable stream.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukealbao/headwater"
+  },
+  "keywords": [
+    "streams",
+    "functional",
+    "programming"
+  ],
+  "author": "Luke Albao <lukealbao@gmail.com> (http://www.relevantish.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukealbao/headwater/issues"
+  },
+  "homepage": "https://github.com/lukealbao/headwater"
+}
