@@ -22,3 +22,5 @@ streamingVersion(someData).pipe(someWritableStream)
 ```
 
 That's all we got!
+
+test some stuff
